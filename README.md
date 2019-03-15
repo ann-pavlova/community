@@ -1,5 +1,5 @@
 # Community
-Online demo: [email](http://ann-pavlova.github.io/community)
+Демо: [email](http://ann-pavlova.github.io/community)
 
 [![Community](https://i.imgur.com/coBj2zc.png)](http://ann-pavlova.github.io/community)
 
